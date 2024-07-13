@@ -42,12 +42,9 @@ The Sales Overview dashboard provides a comprehensive view of the sales data, fe
 5. **Visualize the data using Power BI.**
 
 
-## Contributing
-Feel free to contribute to this project by submitting issues or pull requests. Please ensure that your contributions align with the project goals and coding standards.
-
-
 ## License
 This project is licensed under the MIT License. 
+
 
 
 For more details or queries, please contact **Ashar Nadeem** at **asharnadeem2001@gmail.com**.
