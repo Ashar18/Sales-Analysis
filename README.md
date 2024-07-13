@@ -30,13 +30,16 @@ The Sales Overview dashboard provides a comprehensive view of the sales data, fe
 7. **Actual Sales by Subcategory**: Pie chart showing sales distribution across product subcategories.
 8. **Actual Sales by Customer City**: Map visualizing sales distribution across different cities.
 
+**The image below showcases the Sales Overview dashboard:**
+![image](https://github.com/user-attachments/assets/dc5a1e9e-86fe-4a46-a3da-a1cae209778d)
+
 
 ## Installation and Usage
 1. **Clone the repository**:
 2. **Open the project in your preferred IDE.**
 3. **Set up the SQL Server and import the Adventure Works sample dataset or use the clean data uploaded on this repo.**
 4. **Run the SQL scripts to fetch and clean data.**
-5. **Visualize the data using Power BI or any other visualization tool.**
+5. **Visualize the data using Power BI.**
 
 
 ## Contributing
@@ -45,10 +48,6 @@ Feel free to contribute to this project by submitting issues or pull requests. P
 
 ## License
 This project is licensed under the MIT License. 
-
-
-The image below showcases the Sales Overview dashboard:
-![image](https://github.com/user-attachments/assets/dc5a1e9e-86fe-4a46-a3da-a1cae209778d)
 
 
 For more details or queries, please contact **Ashar Nadeem** at **asharnadeem2001@gmail.com**.
